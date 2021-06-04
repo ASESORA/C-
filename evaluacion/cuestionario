@@ -1,0 +1,177 @@
+12. La siguiente sentencia sobre una variable i es valida en C++:
+
+++i
+
+    Verdadero[]
+    Falso
+
+. En cada programa de C++:
+
+- Cada variable debe tener su tipo de dato definido
+- Debe haber una función llamada main
+
+    Verdadero[]
+    Falso
+
+
+
+5. ¿Qué debe ser usado para moverse a una nueva línea?
+
+    startl
+    endl[]
+    #include
+    return
+
+
+
+6. ¿Cuál es el símbolo para desplazarse a una nueva línea (la alternativa para endl)?
+
+    \a
+    \b
+    \n[]
+    \d
+
+
+
+7. ¿Cuál opción identifica un comentario de una sola línea?
+
+    ##comentario de una sola línea
+    &&comentario de una sola línea
+    **comentario de una sola línea
+    //comentario de una sola línea[]
+
+
+
+8. Los comentarios son ignorados por el compilador
+
+    Verdadero []
+    Falso
+
+
+
+9. ¿Cuál es el tipo de dato para almacenar enteros?
+
+    bool
+    float
+    int[]
+    char
+
+
+
+10. Las variables deben ser declaradas antes de su uso
+
+    Verdadero []
+    Falso
+
+
+11. Las variables deben tener un tipo de dato
+
+    Verdadero[] 
+    Falso
+
+
+
+12. ¿Cuál es el propósito de cin?
+
+    Incluye un archivo de encabezado
+   	
+    Imprime el valor de la variable
+    Toma información (data) del usuario[]
+
+
+
+13. ¿Cuál es el propósito de cout?
+
+    Imprime un mensaje en pantalla[]
+    Leer un tipo de dato
+    Es una función
+    Compila el programa
+
+
+
+2. Las Variables...
+
+    No pueden contener espacios en blanco
+    No deben sobrepasar una longitud máxima
+    Pueden contener letras, números y caracteres de subrayado (_) y deben comenzar por una letra.
+    Todas las anteriores []
+
+
+
+3. char variable1; Hace referencia a una variable de tipo:
+
+    Entero Largo
+    Caracter[]
+    Cadena
+    Entero
+
+
+5. El Operador "<=" significa ___________ y es un operador de tipo: ________________.
+
+    Sumar - Aritmético
+    Mayor que - Relacional
+    Menor o igual que - Aritmético
+    Ninguno de los anteriores []
+
+6.- El operador == significa _____________ y es un operador de tipo_________________.
+	
+	asignacion de valores- aritmetico
+	asignacion de valores - logico
+	comparar valores - aritmetico
+	comparar valores - logico[]
+	
+	
+
+
+7. La operación a && b, se entiende como
+
+    La negación de a y b
+    a y b[]
+    a o b
+    Ninguno de los anteriores
+
+
+
+8. a++ es un tipo de operador:
+
+    Aritmético
+    Incremental[]
+    Lógico
+    Asignación
+
+
+
+1. Para incluir una biblioteca en c++ se utiliza la siguiente sentencia:
+
+    # include (stdlib)
+    # include <stdlib> []
+    cin >> variable1;
+    cout << "biblioteca";
+    
+   
+
+4. La definición de una variable se realiza de la siguiente manera:
+
+    include variable1;
+    const int variable1=25;
+    []int variable1;
+    int variable1=25;
+
+
+
+5. En el proceso de Compilar, pueden aparecer 2 tipos de errores:
+
+  []  Errores de compilación y de ejecución
+    Errores de entrada y salida
+    Errores de etrada y ejecución
+    Errores de compilación y salida
+
+
+
+8. IOSTREAM, CONIO y STDLIB, son variables de c++
+
+    Verdadero
+    []Falso
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSegJItlZ9LVvOoTFXb5lu4HAcDtWFE5TQKYqB7z3CZwTN2t2Q/viewform?usp=pp_url&entry.618009558=Ninguno+de+los+anteriores&entry.81836522=comparar+valores+-+logico&entry.1842435605=int&entry.716585548=endl&entry.1330254405=//comentario+de+una+sola+l%C3%ADnea&entry.877799888=verdadero&entry.1625583929=verdadero&entry.932634654=Toma+informaci%C3%B3n+(data)+del+usuario&entry.2142772840=Imprime+un+mensaje+en+pantalla&entry.1603590680=Todas+las+anteriores&entry.136414854=Caracter&entry.2147331549=1&entry.2065595807=10
